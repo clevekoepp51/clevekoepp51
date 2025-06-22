@@ -1,5 +1,3 @@
-## Hi there 👋 I am @clevekoepp51
-
 ## Hi There 🙋‍♂️, I am Cleve Koepp 
 
 My name is Cleve, i'm 28 years old. I'm Fullstack developer focus my study in Node.js, React.js, React Native and all ecosystem javascript. Loved in collaborate to community and learning each day plus.
